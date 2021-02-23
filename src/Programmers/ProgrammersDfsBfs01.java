@@ -1,4 +1,6 @@
-class Solution {
+package Programmers;
+
+class ProgrammersDfsBfs01 {
     static int answer = 0;
     public int solution(int[] numbers, int target) {
 

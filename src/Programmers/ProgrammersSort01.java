@@ -1,7 +1,9 @@
+package Programmers;
+
 import java.util.Arrays;
 
 //프로그래머스 Sort 1번 나의 풀이.
-class Solution {
+class ProgrammersSort01 {
     public int[] solution(int[] array, int[][] commands) {
 
         int[] answer = new int[commands.length];

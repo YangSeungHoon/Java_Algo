@@ -1,8 +1,10 @@
+package Programmers;
+
 import java.util.List;
 import java.util.ArrayList;
 
 //프로그래머스 완전탐색 1번
-class Solution {
+class ProgrammersExhaustiveSearch01 {
     public int[] solution(int[] answers) {
         int [][] totArr = new int[3][];
         totArr[0] = new int[]{1,2,3,4,5};
