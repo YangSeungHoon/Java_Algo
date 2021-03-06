@@ -1,9 +1,11 @@
-package BaekJoon;
+package BaekJoon.greedy;
 
 
 import java.util.Arrays;
 import java.util.Scanner;
 
+
+//
 //백준 11399번 ATM
 //https://www.acmicpc.net/problem/11399
 public class Greedy11399 {
