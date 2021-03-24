@@ -2,6 +2,8 @@ package BaekJoon.dp;
 
 import java.util.Scanner;
 
+//백준 1463번 1로 만들기(DP)
+//https://www.acmicpc.net/problem/1463
 public class dp1463 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
