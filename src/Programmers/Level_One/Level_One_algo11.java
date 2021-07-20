@@ -1,4 +1,4 @@
-package Programmers;
+package Programmers.Level_One;
 import java.util.ArrayList;
 import java.util.Arrays;
 //https://programmers.co.kr/learn/courses/30/lessons/12910

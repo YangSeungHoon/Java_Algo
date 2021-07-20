@@ -1,4 +1,4 @@
-package Programmers;
+package Programmers.Level_One;
 import java.util.*;
 //https://programmers.co.kr/learn/courses/30/lessons/12915
 //문자열 내 마음대로 정렬하기

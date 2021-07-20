@@ -1,4 +1,4 @@
-package Programmers;
+package Programmers.Level_One;
 //https://programmers.co.kr/learn/courses/30/lessons/12901
 //2016년
 public class Level_One_algo8 {

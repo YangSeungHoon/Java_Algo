@@ -1,4 +1,4 @@
-package Programmers;
+package Programmers.Level_One;
 
 //https://programmers.co.kr/learn/courses/30/lessons/76501
 // 음양 더하기

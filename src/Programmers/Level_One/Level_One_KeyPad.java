@@ -1,4 +1,4 @@
-package Programmers;
+package Programmers.Level_One;
 
 //https://programmers.co.kr/learn/courses/30/lessons/67256
 //[카카오인턴] 키패드 누르기
