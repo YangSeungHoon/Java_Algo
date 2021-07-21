@@ -16,7 +16,7 @@ public class algo_10 {
         fibo[1] = 1;
 
         for(int i = 2; i < fibo.length; i++) {
-            fibo[i] = fibo[i-2]% 1234567 +fibo[i-1]% 1234567;
+            fibo[i] = (fibo[i-2] +fibo[i-1])% 1234567;
         }
         System.out.println(fibo[n] % 1234567);
     }
