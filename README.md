@@ -123,6 +123,7 @@ Java_Algorithm
   * -[X] 01타일
   * -[X] 평범한 배낭
   * -[X] 동물원
+  * -[X] RGB2
     
 
 ### *탐욕법(Greedy)
