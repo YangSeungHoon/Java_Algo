@@ -124,6 +124,7 @@ Java_Algorithm
   * -[X] 평범한 배낭
   * -[X] 동물원
   * -[X] RGB2
+  * -[X] N과 M (3)
     
 
 ### *탐욕법(Greedy)
