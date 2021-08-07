@@ -125,6 +125,7 @@ Java_Algorithm
   * -[X] 동물원
   * -[X] RGB2
   * -[X] N과 M (3)
+  * -[X] N과 M (1)
     
 
 ### *탐욕법(Greedy)
