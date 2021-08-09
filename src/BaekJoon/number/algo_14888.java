@@ -15,6 +15,7 @@ public class algo_14888 {
     public static int numbers[];
     public static int op[]; // +,-,*,//
     public static int min,max;
+    public static StringBuilder sb;
 
     public static void input() throws IOException {
 
@@ -33,12 +34,15 @@ public class algo_14888 {
         }
         min = Integer.MAX_VALUE;
         max = Integer.MIN_VALUE;
+        sb = new StringBuilder();
     }
     public static void main(String[] args) throws IOException {
         input();
 
         recur(1,numbers[1]);
 
+        sb.append(max).append(" ").append(min);
+        System.out.println(sb.toString());
     }
 
     public static void recur(int k, int value){
