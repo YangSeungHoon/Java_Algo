@@ -130,6 +130,7 @@ Java_Algorithm
   * -[X] N과 M (2)
   * -[X] 연산자 끼워넣기
   * -[X] N - Queen
+  * -[X] 부분수열의 합
     
 
 ### *탐욕법(Greedy)
