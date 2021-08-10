@@ -129,6 +129,7 @@ Java_Algorithm
   * -[X] N과 M (4)
   * -[X] N과 M (2)
   * -[X] 연산자 끼워넣기
+  * -[X] N - Queen
     
 
 ### *탐욕법(Greedy)
