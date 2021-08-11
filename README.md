@@ -132,6 +132,7 @@ Java_Algorithm
   * -[X] N - Queen
   * -[X] 부분수열의 합
   * -[X] 로마 숫자 만들기
+  * -[X] 국영수
     
 
 ### *탐욕법(Greedy)
