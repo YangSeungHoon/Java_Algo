@@ -53,6 +53,9 @@ public class algo_10825 {
             this.mathScore = mathScore;
         }
 
+
+
+
         @Override
         public int compareTo(Student other) {
             if (korScore != other.korScore) return other.korScore - korScore;
