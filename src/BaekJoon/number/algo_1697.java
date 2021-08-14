@@ -11,7 +11,6 @@ public class algo_1697 {
 
     static int N;
     static int K;
-    static int second;
     static Queue<Integer> q;
     static int[] check = new int[100001];
 
@@ -20,13 +19,15 @@ public class algo_1697 {
 
         N = sc.nextInt();
         K = sc.nextInt();
-        second = Integer.MAX_VALUE;
         q = new LinkedList<>();
     }
     public static void main(String[] args) {
         input();
-
-        bfs(N);
+        if (N == K) {
+            System.out.println(0);
+        } else {
+            bfs(N);
+        }
     }
 
     public static void bfs(int loc) {
