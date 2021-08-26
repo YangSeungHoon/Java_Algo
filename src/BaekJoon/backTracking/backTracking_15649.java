@@ -1,4 +1,4 @@
-package BaekJoon.number;
+package BaekJoon.backTracking;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 
 //https://www.acmicpc.net/problem/15649
 //N과 M(1)
-public class algo_15649 {
+public class backTracking_15649 {
 
     public static BufferedReader br;
     public static StringTokenizer st;

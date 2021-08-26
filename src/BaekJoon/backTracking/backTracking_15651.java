@@ -1,4 +1,4 @@
-package BaekJoon.number;
+package BaekJoon.backTracking;
 
 import java.io.*;
 import java.util.Scanner;
@@ -6,7 +6,7 @@ import java.util.StringTokenizer;
 
 //https://www.acmicpc.net/problem/15651
 // N과 M(3)
-public class algo_15651 {
+public class backTracking_15651 {
 
     public static int N;
     public static int M;
