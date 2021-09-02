@@ -1,4 +1,4 @@
-package BaekJoon.dfs;
+package BaekJoon.graph;
 
 import java.util.*;
 

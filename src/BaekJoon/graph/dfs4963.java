@@ -1,4 +1,4 @@
-package BaekJoon.dfs;
+package BaekJoon.graph;
 
 import java.util.Scanner;
 //백준 4963번 섬의 개수
