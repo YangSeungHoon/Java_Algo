@@ -30,10 +30,9 @@ public class algo_24 {
                     count++;
                     dfs(i, j);
                 }
+                if (temp_cnt > maxCount) maxCount = temp_cnt;
+                temp_cnt = 0;
             }
-
-            if(temp_cnt > maxCount) maxCount = temp_cnt;
-            temp_cnt = 0;
         }
         answer[0] = count;
         answer[1] = maxCount;
